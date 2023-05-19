@@ -2,10 +2,10 @@
   "variables": {
     "aws_access_key": "AKIATJ2ALXIBT5A6DHHA",
     "aws_secret_key": "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",
-    "source_ami": "ami-02eb7a4783e7e9317",
+    "source_ami": "ami-0a695f0d95cefc163",
     "ssh_username": "ubuntu",
-    "ami_name": "tomcat-ami-ubuntu-2",
-    "region": "ap-south-1",
+    "ami_name": "tomcat-ami-ubuntu",
+    "region": "us-east-2",
     "instance_type": "t2.micro"
   },
   "builders": [
