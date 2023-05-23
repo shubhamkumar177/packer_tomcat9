@@ -46,3 +46,4 @@ Packer will launch an EC2 instance, provision it with Tomcat using the `tomcat-i
 
 That's it! You have successfully created a custom Tomcat image using Packer.
 
+
